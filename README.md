@@ -3,3 +3,4 @@
 -proyecto en construccion
 para ejecutar el sistema debes poner 
 ```npm install react ```
+modifico para probar el cambio de version
